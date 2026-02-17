@@ -1,6 +1,6 @@
 # ❤️ Heart Blinky
 ### ABOUT
- I MAade a Heart-shaped LED chaser PCB with custom artwork, powered by NE555 and CD4017. Designed in KiCad for Blueprint.
+ I Made a Heart-shaped LED chaser PCB with custom artwork, powered by NE555 and CD4017. Designed in KiCad for Blueprint.
 ### **3d view**
 <img width="1703" height="878" alt="Screenshot 2026-02-17 172040" src="https://github.com/user-attachments/assets/2466856c-21dd-4353-afb2-543ac14b5abc" />
 
