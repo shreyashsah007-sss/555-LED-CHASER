@@ -8,6 +8,7 @@
 ### schematic
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/fbbec5b5-c905-44c3-a0d4-822fef99e253" />
 ### BOM
+
 | Designator                     | Value             | Footprint                                        |   Quantity |
 |:-------------------------------|:------------------|:-------------------------------------------------|-----------:|
 | D5,D9,D7,D8,D10,D6,D1,D3,D2,D4 | LED               | LED_D3.0mm                                       |         10 |
@@ -19,6 +20,7 @@
 | C1                             | 1 uF              | CP_Radial_D5.0mm_P2.00mm                         |          1 |
 | R2                             | 470               | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal |          1 |
 | U1                             | NE555P            | DIP-8_W7.62mm                                    |          1 |
+
 
 
 
