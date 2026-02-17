@@ -31,7 +31,7 @@ Turn the RV1 potentiometer knob to speed up or slow down the "heartbeat" effect.
 
 
 
-### ** Bill of Materials (BOM)**
+### **Bill of Materials (BOM)**
 
 | Designator                     | Value             | Footprint                                        |   Quantity |
 |:-------------------------------|:------------------|:-------------------------------------------------|-----------:|
