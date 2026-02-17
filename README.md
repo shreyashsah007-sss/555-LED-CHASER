@@ -7,7 +7,7 @@
 <img width="1052" height="723" alt="image" src="https://github.com/user-attachments/assets/675cd9db-a01a-4c49-b3f7-c0daf0d2f86d" />
 ### schematic
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/fbbec5b5-c905-44c3-a0d4-822fef99e253" />
-### BOM
+###BOM
 
 | Designator                     | Value             | Footprint                                        |   Quantity |
 |:-------------------------------|:------------------|:-------------------------------------------------|-----------:|
